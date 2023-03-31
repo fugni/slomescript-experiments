@@ -1,4 +1,4 @@
-DO ALLOC 1000;
+DO ALLOC 10000;
 MAKE ARRAY board 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;
 MAKE NUMBER toMove 1;
 DO "turn" :board:;
