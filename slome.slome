@@ -1,0 +1,2 @@
+DO ALLOC 10000;
+MAKE NUMBER index 0;
